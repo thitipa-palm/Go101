@@ -1,0 +1,21 @@
+mode: set
+github.com/thitipa-palm/go-Unit-Hex/main.go:24.13,46.16 4 0
+github.com/thitipa-palm/go-Unit-Hex/main.go:46.16,47.41 1 0
+github.com/thitipa-palm/go-Unit-Hex/main.go:50.2,60.21 7 0
+github.com/thitipa-palm/go-Unit-Hex/core/order_service.go:13.57,15.2 1 1
+github.com/thitipa-palm/go-Unit-Hex/core/order_service.go:17.59,19.22 1 1
+github.com/thitipa-palm/go-Unit-Hex/core/order_service.go:19.22,21.3 1 1
+github.com/thitipa-palm/go-Unit-Hex/core/order_service.go:22.2,22.43 1 1
+github.com/thitipa-palm/go-Unit-Hex/core/order_service.go:22.43,24.3 1 1
+github.com/thitipa-palm/go-Unit-Hex/core/order_service.go:25.2,25.12 1 1
+github.com/thitipa-palm/go-Unit-Hex/adaptors/gorm_adaptor.go:12.58,14.2 1 1
+github.com/thitipa-palm/go-Unit-Hex/adaptors/gorm_adaptor.go:16.60,17.56 1 1
+github.com/thitipa-palm/go-Unit-Hex/adaptors/gorm_adaptor.go:17.56,19.3 1 1
+github.com/thitipa-palm/go-Unit-Hex/adaptors/gorm_adaptor.go:20.2,20.12 1 1
+github.com/thitipa-palm/go-Unit-Hex/adaptors/http_adaptor.go:12.71,14.2 1 1
+github.com/thitipa-palm/go-Unit-Hex/adaptors/http_adaptor.go:16.60,19.45 2 1
+github.com/thitipa-palm/go-Unit-Hex/adaptors/http_adaptor.go:19.45,21.3 1 1
+github.com/thitipa-palm/go-Unit-Hex/adaptors/http_adaptor.go:23.2,23.53 1 1
+github.com/thitipa-palm/go-Unit-Hex/adaptors/http_adaptor.go:23.53,25.3 1 1
+github.com/thitipa-palm/go-Unit-Hex/adaptors/http_adaptor.go:27.2,27.50 1 1
+github.com/thitipa-palm/go-Unit-Hex/adaptors/setup.go:7.55,11.2 3 1
